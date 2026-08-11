@@ -6,7 +6,7 @@ Na linguagem V, existem diferentes formas de iniciar um projeto. A própria ferr
 
 ### `v init`
 
-O comando `v init` inicializa um projeto V na pasta atual.
+O comando [`v init`](./exemplos/app-init/main.v) inicializa um projeto V na pasta atual.
 
 Por exemplo:
 
@@ -16,7 +16,7 @@ v init
 
 ### `v new`
 
-O comando `v new` cria um novo projeto em uma pasta especificada.
+O comando [`v new`](./exemplos/app/main.v) cria um novo projeto em uma pasta especificada.
 
 Por exemplo:
 
@@ -28,12 +28,12 @@ Nesse exemplo, será criada uma nova pasta chamada `app`, contendo a estrutura i
 
 ### `v new --web`
 
-Também é possível criar um projeto web utilizando o template do `veb`, o framework web do V.
+Também é possível criar um projeto web utilizando o template do [`veb`](./exemplos/projeto_web/), o framework web do V.
 
 Por exemplo:
 
 ```bash
-v new --web projeto-web
+v new --web projeto_web
 ```
 
 Esse comando cria uma nova pasta chamada `projeto-web` utilizando a estrutura inicial do `veb`.

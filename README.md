@@ -80,4 +80,4 @@ Se vocês quiser entrar em contato comigo sobre a documentação ou qualquer out
 
 - [Linkeadin](https://www.linkedin.com/in/theodorol/)
 - [Discord](https://discord.com/users/540994974498553867)
-- [Instagram] (https://www.instagram.com/theodorol_/)
+- [Instagram](https://www.instagram.com/theodorol_/)
