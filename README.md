@@ -41,7 +41,7 @@ A ideia é que o README funcione como um índice para facilitar a navegação pe
 ## Estrutura dos estudos
 
 - [x] [Introdução](./estudo-v/Introdução/README.md)
-- [ ] Variáveis e tipos
+- [x] [Variáveis e tipos](./estudo-v/variaveis-tipos/README.md)
 - [ ] Operadores
 - [ ] Strings
 - [ ] Arrays

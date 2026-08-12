@@ -234,4 +234,4 @@ Durante os próximos capítulos, pretendo aprofundar meus conhecimentos sobre ou
 
 [← Voltar para a página anterior](../../README.md)
 
-[Próximo capítulo →]()
+[Variáveis e Tipos →](../variaveis-tipos/README.md)
